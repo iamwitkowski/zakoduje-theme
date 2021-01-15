@@ -1,0 +1,18 @@
+{
+    "/blocks/base/public.js": "/blocks/base/public.js",
+    "/blocks/base/public.css": "/blocks/base/public.css",
+    "/styles/main.css": "/styles/main.css",
+    "/styles/vendor.css": "/styles/vendor.css",
+    "/styles/admin.css": "/styles/admin.css",
+    "/scripts/admin.js": "/scripts/admin.js",
+    "/scripts/customizer.js": "/scripts/customizer.js",
+    "/scripts/main.js": "/scripts/main.js",
+    "/scripts/manifest.js": "/scripts/manifest.js",
+    "/scripts/vendor.js": "/scripts/vendor.js",
+    "/fonts/OpenSans-Bold.woff": "/fonts/OpenSans-Bold.woff",
+    "/fonts/OpenSans-Bold.woff2": "/fonts/OpenSans-Bold.woff2",
+    "/fonts/OpenSans-Italic.woff": "/fonts/OpenSans-Italic.woff",
+    "/fonts/OpenSans-Italic.woff2": "/fonts/OpenSans-Italic.woff2",
+    "/fonts/OpenSans-Regular.woff": "/fonts/OpenSans-Regular.woff",
+    "/fonts/OpenSans-Regular.woff2": "/fonts/OpenSans-Regular.woff2"
+}

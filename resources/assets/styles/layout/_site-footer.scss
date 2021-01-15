@@ -1,0 +1,32 @@
+.site-footer {
+  padding: 20px 0;
+  border-top: .1rem solid rgba(0, 0 ,0 , .1);
+
+  &__wrap {
+    display: flex;
+    flex-wrap: wrap;
+
+    & > * {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+
+    // &--2 {
+    //   @include media-breakpoint-up( md ) {
+    //     & > * {
+    //       flex-basis: 50%;
+    //       max-width: 50%;
+    //     }
+    //   }
+    // }
+
+    // &--3 {
+    //   @include media-breakpoint-up( md ) {
+    //     & > * {
+    //       flex-basis: 33.333%;
+    //       max-width: 33.333%;
+    //     }
+    //   }
+    // }
+  }
+}
